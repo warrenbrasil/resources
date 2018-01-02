@@ -1,0 +1,9 @@
+{
+    "kindergarten": "Infantil",
+    "elementary": "Fundamental",
+    "high_school": "Médio",
+    "superior": "Superior",
+    "technical": "Técnico",
+    "masters_doctorate": "Mestrado/Doutorado",
+    "postgraduate_specialization": "Pós Graduação/Especialização"
+}
