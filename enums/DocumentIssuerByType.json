@@ -1,0 +1,39 @@
+{
+	"rg": {
+		"crea": "Conselho Regional de Engenharia e Arquitetura",
+		"cra": "Conselho Regional Administração",
+		"crc": "Conselho Regional Contabilidade",
+		"crm": "Conselho Regional Medicina",
+		"cro": "Conselho Regional Odontologia",
+		"crft": "Conselho Regional de Fisioterapia e Terapia",
+		"cre": "Conselho Regional de Economia ",
+		"dops": "Departamento de Ordem Política e Social",
+		"dpf": "Departamento de Polícia Federal",
+		"dic": "Departamento de Identificação Civil",
+		"dpmf": "Departamento de Portos Marítimos Federal",
+		"dpmaf": "Departamento de Polícia Marítima, Aérea e de Fronteiras",
+		"dfsp": "Departamento Federal de Segurança Pública",
+		"maer": "Ministério da Aeronáutica",
+		"mex": "Ministério do Exército",
+		"mm": "Ministério da Marinha",
+		"mec": "Ministério da Educação e Cultura",
+		"pc": "Polícia Civil",
+		"pm": "Polícia Militar",
+		"ptc": "Polícia Técnico-Científica",
+		"sds": "Secretaria de Defesa Social",
+		"sjs": "Secretaria da Justiça e da Segurança",
+		"ssp": "Secretaria de Segurança Pública",
+		"sej": "Secretaria de Estado e Justiça",
+		"oab": "Ordem dos Advogados do Brasil",
+		"agu": "Advocacia Geral da União",
+		"ifp": "Instituto Félix Pacheco",
+		"ctps": "Carteira de Trabalho e Previdência Social",
+		"fenaj": "Federação Nacional dos Jornalistas",
+		"secc": "Secretaria Estado da Casa Civil",
+		"sesp": "Secretaria Estado Segurança Pública",
+		"outro": "Outro"
+	},
+	"cnh": {
+		"detran": "Detran"
+	}
+}
