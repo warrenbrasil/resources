@@ -1,0 +1,79 @@
+{
+	"header": "Dúvidas",
+	"footer": null,
+	"rows": [{
+		"title": "portfolio_context_goal_faq_question_1",
+		"subtitle": null,
+		"content": {
+			"title": null,
+			"sections": [{
+				"header": "portfolio_context_goal_faq_question_1_title_1",
+				"footer": null,
+				"rows": [{
+					"title": "portfolio_context_goal_faq_question_1_answer_1",
+					"subtitle": null
+				}]
+			},
+			{
+				"header": "portfolio_context_goal_faq_question_1_title_2",
+				"footer": "• Lembre-se: DOC leva até 2 dia úteis para transferir, TED é no mesmo dia útil.\n• Boletos depois de pagos podem demorar até três dias úteis para compensar.",
+				"rows": [{
+					"title": "portfolio_context_goal_faq_question_1_answer_2",
+					"subtitle": null
+				}]
+			}]
+		}
+	}
+	,{
+		"title": "portfolio_context_goal_faq_question_2",
+		"subtitle": null,
+		"content": {
+			"title": null,
+			"sections": [{
+				"header": "portfolio_context_goal_faq_question_2_title_1",
+				"footer": null,
+				"rows": [{
+					"title": "portfolio_context_goal_faq_question_2_answer_1",
+					"subtitle": null
+				}]
+			},
+			{
+				"header": "portfolio_context_goal_faq_question_2_title_2",
+				"footer": null,
+				"rows": [{
+					"title": "portfolio_context_goal_faq_question_2_answer_2",
+					"subtitle": null
+				}]
+			}]
+		}
+	},{
+		"title": "portfolio_context_goal_faq_question_3",
+		"subtitle": null,
+		"content": {
+			"title": null,
+			"sections": [{
+				"header": "portfolio_context_goal_faq_question_3",
+				"footer": null,
+				"rows": [{
+					"title": "portfolio_context_goal_faq_question_3_answer_1",
+					"subtitle": null
+				}]
+			}]
+		}
+	},{
+		"title": "portfolio_context_goal_faq_question_4",
+		"subtitle": null,
+		"content": {
+			"title": null,
+			"sections": [{
+				"header": "portfolio_context_goal_faq_question_4",
+				"footer": null,
+				"rows": [{
+					"title": "portfolio_context_goal_faq_question_4_answer_1",
+					"subtitle": null
+				}]
+			}]
+		}
+	}]
+}
+
