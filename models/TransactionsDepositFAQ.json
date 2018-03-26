@@ -1,0 +1,48 @@
+{
+	"header": "Dúvidas",
+	"footer": null,
+	"rows": [{
+		"title": "portfolio_context_goal_faq_deposit_question1",
+		"subtitle": null,
+		"content": {
+			"title": null,
+			"sections": [{
+				"header": "portfolio_context_goal_faq_deposit_question1",
+				"footer": null,
+				"rows": [{
+					"title": "portfolio_context_goal_faq_deposit_answer1",
+					"subtitle": null
+				}]
+			}]
+		}
+	},{
+		"title": "portfolio_context_goal_faq_deposit_question2",
+		"subtitle": null,
+		"content": {
+			"title": null,
+			"sections": [{
+				"header": "portfolio_context_goal_faq_deposit_question2",
+				"footer": null,
+				"rows": [{
+					"title": "portfolio_context_goal_faq_deposit_answer2",
+					"subtitle": null
+				}]
+			}]
+		}
+	},{
+		"title": "portfolio_context_goal_faq_deposit_question3",
+		"subtitle": null,
+		"content": {
+			"title": null,
+			"sections": [{
+				"header": "portfolio_context_goal_faq_deposit_question3",
+				"footer": null,
+				"rows": [{
+					"title": "portfolio_context_goal_faq_deposit_answer3",
+					"subtitle": null
+				}]
+			}]
+		}
+	}]
+}
+
