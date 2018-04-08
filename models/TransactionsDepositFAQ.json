@@ -2,47 +2,49 @@
 	"header": "Dúvidas",
 	"footer": null,
 	"rows": [{
-		"title": "portfolio_context_goal_faq_deposit_question1",
+		"title": "portfolio_transaction_summary_deposit_question1_title",
 		"subtitle": null,
 		"content": {
-			"title": null,
+			"title": "portfolio_transaction_summary_deposit_question1_title",
 			"sections": [{
-				"header": "portfolio_context_goal_faq_deposit_question1",
+				"header": "portfolio_transaction_summary_deposit_answer1_title1",
 				"footer": null,
 				"rows": [{
-					"title": "portfolio_context_goal_faq_deposit_answer1",
+					"title": "portfolio_transaction_summary_deposit_answer1_description1",
+					"subtitle": null
+				}]
+			},
+			{
+				"header": "portfolio_transaction_summary_deposit_answer1_title2",
+				"footer": null,
+				"rows": [{
+					"title": "portfolio_transaction_summary_deposit_answer1_description2",
+					"subtitle": null
+				}]
+			},
+			{
+				"header": "portfolio_transaction_summary_deposit_answer1_title3",
+				"footer": null,
+				"rows": [{
+					"title": "portfolio_transaction_summary_deposit_answer1_description3",
 					"subtitle": null
 				}]
 			}]
 		}
-	},{
-		"title": "portfolio_context_goal_faq_deposit_question2",
+	},
+	{
+		"title": "portfolio_transaction_summary_invest_question1_title",
 		"subtitle": null,
 		"content": {
-			"title": null,
+			"title": "portfolio_transaction_summary_invest_question1_title",
 			"sections": [{
-				"header": "portfolio_context_goal_faq_deposit_question2",
+				"header": null,
 				"footer": null,
 				"rows": [{
-					"title": "portfolio_context_goal_faq_deposit_answer2",
-					"subtitle": null
-				}]
-			}]
-		}
-	},{
-		"title": "portfolio_context_goal_faq_deposit_question3",
-		"subtitle": null,
-		"content": {
-			"title": null,
-			"sections": [{
-				"header": "portfolio_context_goal_faq_deposit_question3",
-				"footer": null,
-				"rows": [{
-					"title": "portfolio_context_goal_faq_deposit_answer3",
+					"title": "portfolio_transaction_summary_invest_answer1_description1",
 					"subtitle": null
 				}]
 			}]
 		}
 	}]
 }
-
