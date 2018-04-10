@@ -21,14 +21,6 @@
 					"title": "portfolio_transaction_summary_deposit_answer1_description2",
 					"subtitle": null
 				}]
-			},
-			{
-				"header": "portfolio_transaction_summary_deposit_answer1_title3",
-				"footer": null,
-				"rows": [{
-					"title": "portfolio_transaction_summary_deposit_answer1_description3",
-					"subtitle": null
-				}]
 			}]
 		}
 	},
