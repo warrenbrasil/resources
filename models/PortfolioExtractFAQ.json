@@ -91,5 +91,20 @@
 				}]
 			}]
 		}
+	},
+	{
+		"title": "portfolio_transaction_summary_withdraw_question3_title",
+		"subtitle": null,
+		"content": {
+			"title": "portfolio_transaction_summary_withdraw_question3_title",
+			"sections": [{
+				"header": null,
+				"footer": null,
+				"rows": [{
+					"title": "portfolio_transaction_summary_withdraw_answer3_description1",
+					"subtitle": null
+				}]
+			}]
+		}
 	}]
 }
