@@ -1,5 +1,8 @@
 {
-	"header": "Dúvidas",
+	"header": {
+		"title": "Dúvidas",
+		"isLarge": true
+	},
 	"footer": null,
 	"rows": [{
 		"title": "portfolio_transaction_summary_deposit_question1_title",
@@ -7,7 +10,10 @@
 		"content": {
 			"title": "portfolio_transaction_summary_deposit_question1_title",
 			"sections": [{
-				"header": "portfolio_transaction_summary_deposit_answer1_title1",
+				"header": {
+					"title": "portfolio_transaction_summary_deposit_answer1_title1",
+					"isLarge": false
+				},
 				"footer": null,
 				"rows": [{
 					"title": "portfolio_transaction_summary_deposit_answer1_description1",
@@ -15,7 +21,10 @@
 				}]
 			},
 			{
-				"header": "portfolio_transaction_summary_deposit_answer1_title2",
+				"header": {
+					"title": "portfolio_transaction_summary_deposit_answer1_title2",
+					"isLarge": false
+				},
 				"footer": null,
 				"rows": [{
 					"title": "portfolio_transaction_summary_deposit_answer1_description2",
@@ -60,7 +69,10 @@
 		"content": {
 			"title": "portfolio_transaction_summary_withdraw_question1_title",
 			"sections": [{
-				"header": "portfolio_transaction_summary_withdraw_answer1_title1",
+				"header": {
+					"title": "portfolio_transaction_summary_withdraw_answer1_title1",
+					"isLarge": false
+				},
 				"footer": null,
 				"rows": [{
 					"title": "portfolio_transaction_summary_withdraw_answer1_description1",
@@ -68,7 +80,10 @@
 				}]
 			},
 			{
-				"header": "portfolio_transaction_summary_withdraw_answer1_title2",
+				"header": {
+					"title": "portfolio_transaction_summary_withdraw_answer1_title2",
+					"isLarge": false
+				},
 				"footer": null,
 				"rows": [{
 					"title": "portfolio_transaction_summary_withdraw_answer1_description2",

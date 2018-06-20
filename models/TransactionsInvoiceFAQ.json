@@ -1,5 +1,8 @@
 {
-	"header": "Dúvidas",
+	"header": {
+		"title": "Dúvidas",
+		"isLarge": true
+	},
 	"footer": null,
 	"rows": [{
 		"title": "portfolio_transaction_summary_invoice_question1_title",
