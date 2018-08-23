@@ -9,8 +9,8 @@ Warren é uma fintech localizada em Porto Alegre, que tem como principal objetiv
 
 Existimos para facilitar a vida de quem quer investir bem o seu dinheiro, sem o blá-blá-blá, gravatas e taxas que os bancos oferecem. Nossa proposta envolve um investimento com transparência, agilidade e empatia. Já são mais de 10 mil pessoas que confiam seus sonhos e metas ao Warren e é por isso que precisamos estar disponíveis em todas as plataformas. Queremos que todos tenham acesso ao Warren e que possam acompanhar seus investimentos onde quer que estejam.
 
-https://oiwarren.com/quem-somos/
+https://warrenbrasil.com/quem-somos/
 
 # Dúvidas/Sugestões ?
 
-Submeter uma `issue` ou nos contatar pelo e-mail `staff@oiwarren.com`
+Submeter uma `issue` ou nos contatar pelo e-mail `staff@warrenbrasil.com`
