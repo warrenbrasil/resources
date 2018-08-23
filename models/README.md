@@ -48,7 +48,7 @@
     {
         "title": "Warren Website",
         "subtitle": "Row subtitle 2",
-        "url": "http://www.oiwarren.com"
+        "url": "http://www.warrenbrasil.com"
     }]
 }
 
