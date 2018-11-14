@@ -1,34 +1,57 @@
 {
-	"header": "Dúvidas",
-	"footer": null,
-	"rows": [{
-		"title": "portfolio_transaction_summary_invoice_question1_title",
-		"subtitle": null,
-		"content": {
-			"title": "portfolio_transaction_summary_invoice_question1_title",
-			"sections": [{
-				"header": null,
-				"footer": null,
-				"rows": [{
-					"title": "portfolio_transaction_summary_invoice_answer1_description1",
-					"subtitle": null
-				}]
-			}]
-		}
-	},
-	{
-		"title": "portfolio_transaction_summary_invest_question1_title",
-		"subtitle": null,
-		"content": {
-			"title": "portfolio_transaction_summary_invest_question1_title",
-			"sections": [{
-				"header": null,
-				"footer": null,
-				"rows": [{
-					"title": "portfolio_transaction_summary_invest_answer1_description1",
-					"subtitle": null
-				}]
-			}]
-		}
-	}]
+    "header": {
+        "title": "Dúvidas",
+        "isLarge": true
+    },
+    "footer": null,
+    "rows": [
+        {
+            "type": "static",
+            "subtype": "text",
+            "title": "portfolio_transaction_summary_invoice_question1_title",
+            "subtitle": null,
+            "action": {
+                "type": "content",
+                "title": "portfolio_transaction_summary_invoice_question1_title",
+                "sections": [
+                    {
+                        "header": null,
+                        "footer": null,
+                        "rows": [
+                            {
+                                "type": "static",
+                                "subtype": "text",
+                                "title": "portfolio_transaction_summary_invoice_answer1_description1",
+                                "subtitle": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "static",
+            "subtype": "text",
+            "title": "portfolio_transaction_summary_invest_question1_title",
+            "subtitle": null,
+            "action": {
+                "type": "content",
+                "title": "portfolio_transaction_summary_invest_question1_title",
+                "sections": [
+                    {
+                        "header": null,
+                        "footer": null,
+                        "rows": [
+                            {
+                                "type": "static",
+                                "subtype": "text",
+                                "title": "portfolio_transaction_summary_invest_answer1_description1",
+                                "subtitle": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
 }
