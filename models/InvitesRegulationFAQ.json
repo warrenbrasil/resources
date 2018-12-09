@@ -1,107 +1,197 @@
 {
-  "header": {
-    "title": "Dúvidas",
-    "isLarge": true
-  },
-  "footer": null,
-  "rows": [
+  "title": "Regulamento",
+  "sections": [
     {
-      "type": "static",
-      "subtype": "text",
-      "title": "invite_mine_question1_title",
-      "subtitle": null,
-      "action": {
-        "type": "content",
-        "title": "invite_mine_question1_title",
-        "sections": [
-          {
-            "rows": [
+      "rows": [
+        {
+          "type": "static",
+          "subtype": "text",
+          "title": "invite_regulation_question1_title",
+          "action": {
+            "type": "content",
+            "title": "invite_regulation_question1_title",
+            "sections": [
               {
-                "type": "static",
-                "subtype": "text",
-                "title": "invite_mine_answer1_description1",
-                "subtitle": null
-              }
-            ]
-          },
-          {
-            "rows": [
-              {
-                "type": "static",
-                "subtype": "text",
-                "title": "invite_mine_answer1_description2",
-                "subtitle": null
+                "header": {
+                  "title": "invite_regulation_answer1_title1"
+                },
+                "rows": [
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer1_description1"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer1_description2"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer1_description3"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer1_description4"
+                  }
+                ]
               }
             ]
           }
-        ]
-      }
-    },
-    {
-      "type": "static",
-      "subtype": "text",
-      "title": "invite_mine_question2_title",
-      "subtitle": null,
-      "action": {
-        "type": "content",
-        "title": "invite_mine_question2_title",
-        "sections": [
-          {
-            "rows": [
+        },
+        {
+          "type": "static",
+          "subtype": "text",
+          "title": "invite_regulation_question2_title",
+          "action": {
+            "type": "content",
+            "title": "invite_regulation_question2_title",
+            "sections": [
               {
-                "type": "static",
-                "subtype": "text",
-                "title": "invite_mine_answer2_description1",
-                "subtitle": null
+                "header": {
+                  "title": "invite_regulation_answer2_title1"
+                },
+                "rows": [
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description1"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description2"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description3"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description4"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description5"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description5"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description5"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description6"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description7"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description8"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description9"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description10"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description11"
+                  }
+                ]
               }
             ]
           }
-        ]
-      }
-    },
-    {
-      "type": "static",
-      "subtype": "text",
-      "title": "invite_mine_question3_title",
-      "subtitle": null,
-      "action": {
-        "type": "content",
-        "title": "invite_mine_question3_title",
-        "sections": [
-          {
-            "rows": [
+        },
+        {
+          "type": "static",
+          "subtype": "text",
+          "title": "invite_regulation_question3_title",
+          "action": {
+            "type": "content",
+            "title": "invite_regulation_question3_title",
+            "sections": [
               {
-                "type": "static",
-                "subtype": "text",
-                "title": "invite_mine_answer3_description1",
-                "subtitle": null
+                "header": {
+                  "title": "invite_regulation_answer3_title1"
+                },
+                "rows": [
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer3_description1"
+                  }
+                ]
               }
             ]
           }
-        ]
-      }
-    },
-    {
-      "type": "static",
-      "subtype": "text",
-      "title": "invite_mine_question4_title",
-      "subtitle": null,
-      "action": {
-        "type": "content",
-        "title": "invite_mine_question4_title",
-        "sections": [
-          {
-            "rows": [
-              {
-                "type": "static",
-                "subtype": "text",
-                "title": "invite_mine_answer4_description1",
-                "subtitle": null
-              }
-            ]
-          }
-        ]
-      }
+        },
+        {
+          "type": "static",
+          "subtype": "text",
+          "title": "invite_regulation_question4_title",
+          "action": {
+              "type": "content",
+              "title": "invite_regulation_question4_title",
+              "sections": [
+                {
+                  "header": {
+                    "title": "invite_regulation_answer4_title1"
+                  },
+                  "rows": [
+                    {
+                      "type": "static",
+                      "subtype": "text",
+                      "title": "invite_regulation_answer4_description1"
+                    },
+                    {
+                      "type": "static",
+                      "subtype": "text",
+                      "title": "invite_regulation_answer4_description2"
+                    },
+                    {
+                      "type": "static",
+                      "subtype": "text",
+                      "title": "invite_regulation_answer4_description3"
+                    },
+                    {
+                      "type": "static",
+                      "subtype": "text",
+                      "title": "invite_regulation_answer4_description4"
+                    },
+                    {
+                      "type": "static",
+                      "subtype": "text",
+                      "title": "invite_regulation_answer4_description5"
+                    }
+                  ]
+                }
+              ]
+            }
+
+        }
+      ]
     }
   ]
 }
