@@ -1,0 +1,53 @@
+{
+  "header": {
+    "title": "Dúvidas",
+    "isLarge": true
+  },
+  "footer": null,
+  "rows": [
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "invite_mine_question3_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "invite_mine_question3_title",
+        "sections": [
+          {
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer3_description1",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "invite_mine_question4_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "invite_mine_question4_title",
+        "sections": [
+          {
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer4_description1",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
