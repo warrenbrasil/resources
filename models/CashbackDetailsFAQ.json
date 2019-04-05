@@ -1,0 +1,97 @@
+{
+  "header": {
+    "title": "Dúvidas",
+    "isLarge": true
+  },
+  "footer": null,
+  "rows": [
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "cashback_detail_question1_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "cashback_detail_question1_title",
+        "sections": [
+          {
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "cashback_detail_answer1_description1",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+        "type": "static",
+        "subtype": "text",
+        "title": "cashback_detail_question2_title",
+        "subtitle": null,
+        "action": {
+          "type": "content",
+          "title": "cashback_detail_question2_title",
+          "sections": [
+            {
+              "rows": [
+                {
+                  "type": "static",
+                  "subtype": "text",
+                  "title": "cashback_detail_answer2_description1",
+                  "subtitle": null
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "static",
+        "subtype": "text",
+        "title": "cashback_detail_question3_title",
+        "subtitle": null,
+        "action": {
+          "type": "content",
+          "title": "cashback_detail_question3_title",
+          "sections": [
+            {
+              "rows": [
+                {
+                  "type": "static",
+                  "subtype": "text",
+                  "title": "cashback_detail_answer3_description1",
+                  "subtitle": null
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "static",
+        "subtype": "text",
+        "title": "cashback_detail_question4_title",
+        "subtitle": null,
+        "action": {
+          "type": "content",
+          "title": "cashback_detail_question4_title",
+          "sections": [
+            {
+              "rows": [
+                {
+                  "type": "static",
+                  "subtype": "text",
+                  "title": "cashback_detail_answer4_description1",
+                  "subtitle": null
+                }
+              ]
+            }
+          ]
+        }
+      }
+  ]
+}
