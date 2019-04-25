@@ -1,99 +1,114 @@
 {
-    "header": {
-        "title": "Dúvidas",
-        "isLarge": true
+  "header": {
+    "title": "Dúvidas",
+    "isLarge": true
+  },
+  "footer": null,
+  "rows": [
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "portfolio_transaction_summary_withdraw_question1_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "portfolio_transaction_summary_withdraw_question1_title",
+        "sections": [
+          {
+            "header": {
+              "title": "portfolio_transaction_summary_withdraw_answer1_title1",
+              "isLarge": false
+            },
+            "footer": null,
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "portfolio_transaction_summary_withdraw_answer1_description1",
+                "subtitle": null
+              }
+            ]
+          },
+          {
+            "header": {
+              "title": "portfolio_transaction_summary_withdraw_answer1_title2",
+              "isLarge": false
+            },
+            "footer": null,
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "portfolio_transaction_summary_withdraw_answer1_description2",
+                "subtitle": null
+              }
+            ]
+          },
+          {
+            "header": {
+              "title": null,
+              "isLarge": false
+            },
+            "footer": null,
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "portfolio_transaction_summary_withdraw_answer1_description3",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
     },
-    "footer": null,
-    "rows": [
-        {
-            "type": "static",
-            "subtype": "text",
-            "title": "portfolio_transaction_summary_withdraw_question1_title",
-            "subtitle": null,
-            "action": {
-                "type": "content",
-                "title": "portfolio_transaction_summary_withdraw_question1_title",
-                "sections": [
-                    {
-                        "header": {
-                            "title": "portfolio_transaction_summary_withdraw_answer1_title1",
-                            "isLarge": false
-                        },
-                        "footer": null,
-                        "rows": [
-                            {
-                                "type": "static",
-                                "subtype": "text",
-                                "title": "portfolio_transaction_summary_withdraw_answer1_description1",
-                                "subtitle": null
-                            }
-                        ]
-                    },
-                    {
-                        "header": {
-                            "title": "portfolio_transaction_summary_withdraw_answer1_title2",
-                            "isLarge": false
-                        },
-                        "footer": null,
-                        "rows": [
-                            {
-                                "type": "static",
-                                "subtype": "text",
-                                "title": "portfolio_transaction_summary_withdraw_answer1_description2",
-                                "subtitle": null
-                            }
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "type": "static",
-            "subtype": "text",
-            "title": "portfolio_transaction_summary_withdraw_question2_title",
-            "subtitle": null,
-            "action": {
-                "type": "content",
-                "title": "portfolio_transaction_summary_withdraw_question2_title",
-                "sections": [
-                    {
-                        "header": null,
-                        "footer": null,
-                        "rows": [
-                            {
-                                "type": "static",
-                                "subtype": "text",
-                                "title": "portfolio_transaction_summary_withdraw_answer2_description1",
-                                "subtitle": null
-                            }
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "type": "static",
-            "subtype": "text",
-            "title": "portfolio_transaction_summary_withdraw_question3_title",
-            "subtitle": null,
-            "action": {
-                "type": "content",
-                "title": "portfolio_transaction_summary_withdraw_question3_title",
-                "sections": [
-                    {
-                        "header": null,
-                        "footer": null,
-                        "rows": [
-                            {
-                                "type": "static",
-                                "subtype": "text",
-                                "title": "portfolio_transaction_summary_withdraw_answer3_description1",
-                                "subtitle": null
-                            }
-                        ]
-                    }
-                ]
-            }
-        }
-    ]
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "portfolio_transaction_summary_withdraw_question2_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "portfolio_transaction_summary_withdraw_question2_title",
+        "sections": [
+          {
+            "header": null,
+            "footer": null,
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "portfolio_transaction_summary_withdraw_answer2_description1",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "portfolio_transaction_summary_withdraw_question3_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "portfolio_transaction_summary_withdraw_question3_title",
+        "sections": [
+          {
+            "header": null,
+            "footer": null,
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "portfolio_transaction_summary_withdraw_answer3_description1",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
 }
