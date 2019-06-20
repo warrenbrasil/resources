@@ -1,29 +1,42 @@
 {
-	"header": "Dúvidas",
+	"header": {
+		"title": "Dúvidas",
+		"isLarge": true
+	},
 	"footer": null,
 	"rows": [{
+		"type": "static",
+		"subtype": "text",
 		"title": "investment_account_question1_title",
 		"subtitle": null,
-		"content": {
+		"action": {
+			"type": "content",
 			"title": "investment_account_question1_title",
 			"sections": [{
 				"header": null,
 				"footer": null,
 				"rows": [{
+					"type": "static",
+					"subtype": "text",
 					"title": "investment_account_question1_answer",
 					"subtitle": null
 				}]
 			}]
 		}
 	},{
+		"type": "static",
+		"subtype": "text",
 		"title": "investment_account_question2_title",
 		"subtitle": null,
-		"content": {
+		"action": {
+			"type": "content",
 			"title": "investment_account_question2_title",
 			"sections": [{
 				"header": "investment_account_question2_answer1_title",
 				"footer": null,
 				"rows": [{
+					"type": "static",
+					"subtype": "text",
 					"title": "investment_account_question2_answer1_description",
 					"subtitle": null
 				}]
@@ -32,6 +45,8 @@
 				"header": "investment_account_question2_answer2_title",
 				"footer": null,
 				"rows": [{
+					"type": "static",
+					"subtype": "text",
 					"title": "investment_account_question2_answer2_description",
 					"subtitle": null
 				}]
@@ -39,14 +54,19 @@
 		}
 	},
 	{
+		"type": "static",
+		"subtype": "text",
 		"title": "investment_account_question3_title",
 		"subtitle": null,
-		"content": {
+		"action": {
+			"type": "content",
 			"title": "investment_account_question3_title",
 			"sections": [{
 				"header": null,
 				"footer": null,
 				"rows": [{
+					"type": "static",
+					"subtype": "text",
 					"title": "investment_account_question3_answer",
 					"subtitle": null
 				}]
@@ -54,14 +74,19 @@
 		}
 	},
 	{
+		"type": "static",
+		"subtype": "text",
 		"title": "investment_account_question4_title",
 		"subtitle": null,
-		"content": {
+		"action": {
+			"type": "content",
 			"title": "investment_account_question4_title",
 			"sections": [{
 				"header": null,
 				"footer": null,
 				"rows": [{
+					"type": "static",
+					"subtype": "text",
 					"title": "investment_account_question4_answer",
 					"subtitle": null
 				}]
@@ -69,14 +94,19 @@
 		}
 	},
 	{
+		"type": "static",
+		"subtype": "text",
 		"title": "investment_account_question5_title",
 		"subtitle": null,
-		"content": {
+		"action": {
+			"type": "content",
 			"title": "investment_account_question5_title",
 			"sections": [{
 				"header": null,
 				"footer": null,
 				"rows": [{
+					"type": "static",
+					"subtype": "text",
 					"title": "investment_account_question5_answer",
 					"subtitle": null
 				}]
