@@ -32,7 +32,10 @@
 			"type": "content",
 			"title": "investment_account_question2_title",
 			"sections": [{
-				"header": "investment_account_question2_answer1_title",
+				"header": {
+					"title": "investment_account_question2_answer1_title",
+					"isLarge": false
+				},
 				"footer": null,
 				"rows": [{
 					"type": "static",
@@ -42,7 +45,10 @@
 				}]
 			},
 			{
-				"header": "investment_account_question2_answer2_title",
+				"header": {
+					"title": "investment_account_question2_answer2_title",
+					"isLarge": false
+				},
 				"footer": null,
 				"rows": [{
 					"type": "static",
