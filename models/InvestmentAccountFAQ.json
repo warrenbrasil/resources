@@ -1,0 +1,86 @@
+{
+	"header": "Dúvidas",
+	"footer": null,
+	"rows": [{
+		"title": "investment_account_question1_title",
+		"subtitle": null,
+		"content": {
+			"title": "investment_account_question1_title",
+			"sections": [{
+				"header": null,
+				"footer": null,
+				"rows": [{
+					"title": "investment_account_question1_answer",
+					"subtitle": null
+				}]
+			}]
+		}
+	},{
+		"title": "investment_account_question2_title",
+		"subtitle": null,
+		"content": {
+			"title": "investment_account_question2_title",
+			"sections": [{
+				"header": "investment_account_question2_answer1_title",
+				"footer": null,
+				"rows": [{
+					"title": "investment_account_question2_answer1_description",
+					"subtitle": null
+				}]
+			},
+			{
+				"header": "investment_account_question2_answer2_title",
+				"footer": null,
+				"rows": [{
+					"title": "investment_account_question2_answer2_description",
+					"subtitle": null
+				}]
+			}]
+		}
+	},
+	{
+		"title": "investment_account_question3_title",
+		"subtitle": null,
+		"content": {
+			"title": "investment_account_question3_title",
+			"sections": [{
+				"header": null,
+				"footer": null,
+				"rows": [{
+					"title": "investment_account_question3_answer",
+					"subtitle": null
+				}]
+			}]
+		}
+	},
+	{
+		"title": "investment_account_question4_title",
+		"subtitle": null,
+		"content": {
+			"title": "investment_account_question4_title",
+			"sections": [{
+				"header": null,
+				"footer": null,
+				"rows": [{
+					"title": "investment_account_question4_answer",
+					"subtitle": null
+				}]
+			}]
+		}
+	},
+	{
+		"title": "investment_account_question5_title",
+		"subtitle": null,
+		"content": {
+			"title": "investment_account_question5_title",
+			"sections": [{
+				"header": null,
+				"footer": null,
+				"rows": [{
+					"title": "investment_account_question5_answer",
+					"subtitle": null
+				}]
+			}]
+		}
+	}]
+}
