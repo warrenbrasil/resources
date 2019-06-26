@@ -32,28 +32,12 @@
 			"type": "content",
 			"title": "investment_account_question2_title",
 			"sections": [{
-				"header": {
-					"title": "investment_account_question2_answer1_title",
-					"isLarge": false
-				},
+				"header": null,
 				"footer": null,
 				"rows": [{
 					"type": "static",
 					"subtype": "text",
-					"title": "investment_account_question2_answer1_description",
-					"subtitle": null
-				}]
-			},
-			{
-				"header": {
-					"title": "investment_account_question2_answer2_title",
-					"isLarge": false
-				},
-				"footer": null,
-				"rows": [{
-					"type": "static",
-					"subtype": "text",
-					"title": "investment_account_question2_answer2_description",
+					"title": "investment_account_question2_answer",
 					"subtitle": null
 				}]
 			}]
@@ -114,6 +98,46 @@
 					"type": "static",
 					"subtype": "text",
 					"title": "investment_account_question5_answer",
+					"subtitle": null
+				}]
+			}]
+		}
+	},
+	{
+		"type": "static",
+		"subtype": "text",
+		"title": "investment_account_question6_title",
+		"subtitle": null,
+		"action": {
+			"type": "content",
+			"title": "investment_account_question6_title",
+			"sections": [{
+				"header": null,
+				"footer": null,
+				"rows": [{
+					"type": "static",
+					"subtype": "text",
+					"title": "investment_account_question6_answer",
+					"subtitle": null
+				}]
+			}]
+		}
+	},
+	{
+		"type": "static",
+		"subtype": "text",
+		"title": "investment_account_question7_title",
+		"subtitle": null,
+		"action": {
+			"type": "content",
+			"title": "investment_account_question7_title",
+			"sections": [{
+				"header": null,
+				"footer": null,
+				"rows": [{
+					"type": "static",
+					"subtype": "text",
+					"title": "investment_account_question7_answer",
 					"subtitle": null
 				}]
 			}]
