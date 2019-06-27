@@ -122,25 +122,5 @@
 				}]
 			}]
 		}
-	},
-	{
-		"type": "static",
-		"subtype": "text",
-		"title": "investment_account_question7_title",
-		"subtitle": null,
-		"action": {
-			"type": "content",
-			"title": "investment_account_question7_title",
-			"sections": [{
-				"header": null,
-				"footer": null,
-				"rows": [{
-					"type": "static",
-					"subtype": "text",
-					"title": "investment_account_question7_answer",
-					"subtitle": null
-				}]
-			}]
-		}
 	}]
 }
