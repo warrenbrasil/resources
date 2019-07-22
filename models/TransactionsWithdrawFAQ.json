@@ -15,6 +15,18 @@
         "title": "portfolio_transaction_summary_withdraw_question1_title",
         "sections": [
           {
+            "header": null,
+            "footer": null,
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "portfolio_transaction_summary_withdraw_description_important",
+                "subtitle": null
+              }
+            ]
+          },
+          {
             "header": {
               "title": "portfolio_transaction_summary_withdraw_answer1_title1",
               "isLarge": false
@@ -45,10 +57,7 @@
             ]
           },
           {
-            "header": {
-              "title": null,
-              "isLarge": false
-            },
+            "header": null,
             "footer": null,
             "rows": [
               {
