@@ -15,10 +15,7 @@
         "title": "portfolio_transaction_summary_withdraw_question1_title",
         "sections": [
           {
-            "header": {
-              "title": null,
-              "isLarge": false
-            },
+            "header": null,
             "footer": null,
             "rows": [
               {
@@ -60,10 +57,7 @@
             ]
           },
           {
-            "header": {
-              "title": null,
-              "isLarge": false
-            },
+            "header": null,
             "footer": null,
             "rows": [
               {
