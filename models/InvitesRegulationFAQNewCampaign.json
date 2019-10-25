@@ -1,0 +1,149 @@
+{
+  "title": "Regulamento",
+  "sections": [
+    {
+      "rows": [
+        {
+          "type": "static",
+          "subtype": "text",
+          "title": "invite_regulation_question1_title_new_campaign",
+          "action": {
+            "type": "content",
+            "title": "invite_regulation_question1_title_new_campaign",
+            "sections": [
+              {
+                "header": {
+                  "title": "invite_regulation_answer1_title1_new_campaign"
+                },
+                "rows": [
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer1_description1_new_campaign"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer1_description2_new_campaign"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer1_description3_new_campaign"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer1_description4_new_campaign"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer1_description5_new_campaign"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "static",
+          "subtype": "text",
+          "title": "invite_regulation_question2_title_new_campaign",
+          "action": {
+            "type": "content",
+            "title": "invite_regulation_question2_title_new_campaign",
+            "sections": [
+              {
+                "header": {
+                  "title": "invite_regulation_answer2_title1_new_campaign"
+                },
+                "rows": [
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description1_new_campaign"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description2_new_campaign"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description3_new_campaign"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description4_new_campaign"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description5_new_campaign"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description6_new_campaign"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description7_new_campaign"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer2_description8_new_campaign"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "static",
+          "subtype": "text",
+          "title": "invite_regulation_question3_title",
+          "action": {
+              "type": "content",
+              "title": "invite_regulation_question3_title",
+              "sections": [
+                {
+                  "header": {
+                    "title": "invite_regulation_answer3_title1"
+                  },
+                  "rows": [
+                    {
+                      "type": "static",
+                      "subtype": "text",
+                      "title": "invite_regulation_answer3_description1_new_campaign"
+                    },
+                    {
+                      "type": "static",
+                      "subtype": "text",
+                      "title": "invite_regulation_answer3_description2_new_campaign"
+                    },
+                    {
+                      "type": "static",
+                      "subtype": "text",
+                      "title": "invite_regulation_answer3_description3_new_campaign"
+                    },
+                    {
+                      "type": "static",
+                      "subtype": "text",
+                      "title": "invite_regulation_answer3_description4_new_campaign"
+                    }
+                  ]
+                }
+              ]
+            }
+
+        }
+      ]
+    }
+  ]
+}
