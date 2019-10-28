@@ -1,0 +1,147 @@
+{
+  "header": {
+    "title": "Dúvidas",
+    "isLarge": true
+  },
+  "footer": null,
+  "rows": [
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "invite_mine_question1_title_new_campaign",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "invite_mine_answer1_title_new_campaign",
+        "sections": [
+          {
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer1_description1_new_campaign",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer1_description2_new_campaign",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer1_description3_new_campaign",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer1_description4_new_campaign",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "invite_mine_question2_title_new_campaign",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "invite_mine_answer2_title_new_campaign",
+        "sections": [
+          {
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer2_description1_new_campaign",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer2_description2_new_campaign",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer2_description3_new_campaign",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer2_description4_new_campaign",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer2_description5_new_campaign",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer2_description6_new_campaign",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer2_description7_new_campaign",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "invite_mine_question3_title_new_campaign",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "invite_mine_answer3_title_new_campaign",
+        "sections": [
+          {
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer3_description1_new_campaign",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer3_description2_new_campaign",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer3_description3_new_campaign",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "invite_mine_answer3_description4_new_campaign",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
