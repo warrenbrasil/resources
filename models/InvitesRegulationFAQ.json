@@ -93,21 +93,6 @@
                     "type": "static",
                     "subtype": "text",
                     "title": "invite_regulation_answer2_description8"
-                  },
-                  {
-                    "type": "static",
-                    "subtype": "text",
-                    "title": "invite_regulation_answer2_description9"
-                  },
-                  {
-                    "type": "static",
-                    "subtype": "text",
-                    "title": "invite_regulation_answer2_description10"
-                  },
-                  {
-                    "type": "static",
-                    "subtype": "text",
-                    "title": "invite_regulation_answer2_description11"
                   }
                 ]
               }

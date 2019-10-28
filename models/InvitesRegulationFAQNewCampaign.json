@@ -107,14 +107,14 @@
         {
           "type": "static",
           "subtype": "text",
-          "title": "invite_regulation_question3_title",
+          "title": "invite_regulation_question3_title_new_campaign",
           "action": {
               "type": "content",
-              "title": "invite_regulation_question3_title",
+              "title": "invite_regulation_question3_title_new_campaign",
               "sections": [
                 {
                   "header": {
-                    "title": "invite_regulation_answer3_title1"
+                    "title": "invite_regulation_answer3_title1_new_campaign"
                   },
                   "rows": [
                     {
