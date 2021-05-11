@@ -127,44 +127,43 @@
           "subtype": "text",
           "title": "invite_regulation_question4_title",
           "action": {
-              "type": "content",
-              "title": "invite_regulation_question4_title",
-              "sections": [
-                {
-                  "header": {
-                    "title": "invite_regulation_answer4_title1"
+            "type": "content",
+            "title": "invite_regulation_question4_title",
+            "sections": [
+              {
+                "header": {
+                  "title": "invite_regulation_answer4_title1"
+                },
+                "rows": [
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer4_description1"
                   },
-                  "rows": [
-                    {
-                      "type": "static",
-                      "subtype": "text",
-                      "title": "invite_regulation_answer4_description1"
-                    },
-                    {
-                      "type": "static",
-                      "subtype": "text",
-                      "title": "invite_regulation_answer4_description2"
-                    },
-                    {
-                      "type": "static",
-                      "subtype": "text",
-                      "title": "invite_regulation_answer4_description3"
-                    },
-                    {
-                      "type": "static",
-                      "subtype": "text",
-                      "title": "invite_regulation_answer4_description4"
-                    },
-                    {
-                      "type": "static",
-                      "subtype": "text",
-                      "title": "invite_regulation_answer4_description5"
-                    }
-                  ]
-                }
-              ]
-            }
-
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer4_description2"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer4_description3"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer4_description4"
+                  },
+                  {
+                    "type": "static",
+                    "subtype": "text",
+                    "title": "invite_regulation_answer4_description5"
+                  }
+                ]
+              }
+            ]
+          }
         }
       ]
     }

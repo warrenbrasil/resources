@@ -28,148 +28,148 @@
       }
     },
     {
-        "type": "static",
-        "subtype": "text",
+      "type": "static",
+      "subtype": "text",
+      "title": "cashback_question2_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
         "title": "cashback_question2_title",
-        "subtitle": null,
-        "action": {
-          "type": "content",
-          "title": "cashback_question2_title",
-          "sections": [
-            {
-              "rows": [
-                {
-                  "type": "static",
-                  "subtype": "text",
-                  "title": "cashback_answer2_description1",
-                  "subtitle": null
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "type": "static",
-        "subtype": "text",
-        "title": "cashback_question3_title",
-        "subtitle": null,
-        "action": {
-          "type": "content",
-          "title": "cashback_question3_title",
-          "sections": [
-            {
-              "rows": [
-                {
-                  "type": "static",
-                  "subtype": "text",
-                  "title": "cashback_answer3_description1",
-                  "subtitle": null
-                },
-                {
-                  "type": "static",
-                  "subtype": "text",
-                  "title": "cashback_answer3_description2",
-                  "subtitle": null
-                },
-                {
-                  "type": "static",
-                  "subtype": "text",
-                  "title": "cashback_answer3_description3",
-                  "subtitle": null
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "type": "static",
-        "subtype": "text",
-        "title": "cashback_question4_title",
-        "subtitle": null,
-        "action": {
-          "type": "content",
-          "title": "cashback_question4_title",
-          "sections": [
-            {
-              "rows": [
-                {
-                  "type": "static",
-                  "subtype": "text",
-                  "title": "cashback_answer4_description1",
-                  "subtitle": null
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "type": "static",
-        "subtype": "text",
-        "title": "cashback_question5_title",
-        "subtitle": null,
-        "action": {
-          "type": "content",
-          "title": "cashback_question5_title",
-          "sections": [
-            {
-              "rows": [
-                {
-                  "type": "static",
-                  "subtype": "text",
-                  "title": "cashback_answer5_description1",
-                  "subtitle": null
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "type": "static",
-        "subtype": "text",
-        "title": "cashback_question6_title",
-        "subtitle": null,
-        "action": {
-          "type": "content",
-          "title": "cashback_question6_title",
-          "sections": [
-            {
-              "rows": [
-                {
-                  "type": "static",
-                  "subtype": "text",
-                  "title": "cashback_answer6_description1",
-                  "subtitle": null
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "type": "static",
-        "subtype": "text",
-        "title": "cashback_question7_title",
-        "subtitle": null,
-        "action": {
-          "type": "content",
-          "title": "cashback_question7_title",
-          "sections": [
-            {
-              "rows": [
-                {
-                  "type": "static",
-                  "subtype": "text",
-                  "title": "cashback_answer7_description1",
-                  "subtitle": null
-                }
-              ]
-            }
-          ]
-        }
+        "sections": [
+          {
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "cashback_answer2_description1",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
       }
+    },
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "cashback_question3_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "cashback_question3_title",
+        "sections": [
+          {
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "cashback_answer3_description1",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "cashback_answer3_description2",
+                "subtitle": null
+              },
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "cashback_answer3_description3",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "cashback_question4_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "cashback_question4_title",
+        "sections": [
+          {
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "cashback_answer4_description1",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "cashback_question5_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "cashback_question5_title",
+        "sections": [
+          {
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "cashback_answer5_description1",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "cashback_question6_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "cashback_question6_title",
+        "sections": [
+          {
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "cashback_answer6_description1",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "cashback_question7_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "cashback_question7_title",
+        "sections": [
+          {
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "cashback_answer7_description1",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    }
   ]
 }

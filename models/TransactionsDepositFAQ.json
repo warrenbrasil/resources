@@ -1,75 +1,75 @@
 {
-    "header": {
-        "title": "Dúvidas",
-        "isLarge": true
+  "header": {
+    "title": "Dúvidas",
+    "isLarge": true
+  },
+  "footer": null,
+  "rows": [
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "portfolio_transaction_summary_deposit_question1_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "portfolio_transaction_summary_deposit_question1_title",
+        "sections": [
+          {
+            "header": {
+              "title": "portfolio_transaction_summary_deposit_answer1_title1",
+              "isLarge": false
+            },
+            "footer": null,
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "portfolio_transaction_summary_deposit_answer1_description1",
+                "subtitle": null
+              }
+            ]
+          },
+          {
+            "header": {
+              "title": "portfolio_transaction_summary_deposit_answer1_title2",
+              "isLarge": false
+            },
+            "footer": null,
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "portfolio_transaction_summary_deposit_answer1_description2",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
     },
-    "footer": null,
-    "rows": [
-        {
-            "type": "static",
-            "subtype": "text",
-            "title": "portfolio_transaction_summary_deposit_question1_title",
-            "subtitle": null,
-            "action": {
-                "type": "content",
-                "title": "portfolio_transaction_summary_deposit_question1_title",
-                "sections": [
-                    {
-                        "header": {
-                            "title": "portfolio_transaction_summary_deposit_answer1_title1",
-                            "isLarge": false
-                        },
-                        "footer": null,
-                        "rows": [
-                            {
-                                "type": "static",
-                                "subtype": "text",
-                                "title": "portfolio_transaction_summary_deposit_answer1_description1",
-                                "subtitle": null
-                            }
-                        ]
-                    },
-                    {
-                        "header": {
-                            "title": "portfolio_transaction_summary_deposit_answer1_title2",
-                            "isLarge": false
-                        },
-                        "footer": null,
-                        "rows": [
-                            {
-                                "type": "static",
-                                "subtype": "text",
-                                "title": "portfolio_transaction_summary_deposit_answer1_description2",
-                                "subtitle": null
-                            }
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "type": "static",
-            "subtype": "text",
-            "title": "portfolio_transaction_summary_invest_question1_title",
-            "subtitle": null,
-            "action": {
-                "type": "content",
-                "title": "portfolio_transaction_summary_invest_question1_title",
-                "sections": [
-                    {
-                        "header": null,
-                        "footer": null,
-                        "rows": [
-                            {
-                                "type": "static",
-                                "subtype": "text",
-                                "title": "portfolio_transaction_summary_invest_answer1_description1",
-                                "subtitle": null
-                            }
-                        ]
-                    }
-                ]
-            }
-        }
-    ]
+    {
+      "type": "static",
+      "subtype": "text",
+      "title": "portfolio_transaction_summary_invest_question1_title",
+      "subtitle": null,
+      "action": {
+        "type": "content",
+        "title": "portfolio_transaction_summary_invest_question1_title",
+        "sections": [
+          {
+            "header": null,
+            "footer": null,
+            "rows": [
+              {
+                "type": "static",
+                "subtype": "text",
+                "title": "portfolio_transaction_summary_invest_answer1_description1",
+                "subtitle": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
 }
