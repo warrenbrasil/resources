@@ -5,29 +5,9 @@
     "sinacor": "125"
   },
   {
-    "cbo": "212305",
-    "profession": "Administrador(a) de banco de dados",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "252505",
-    "profession": "Administrador(a) de fundos e carteiras de investimento",
-    "sinacor": "125"
-  },
-  {
-    "cbo": "212310",
-    "profession": "Administrador(a) de redes",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "212315",
-    "profession": "Administrador(a) de sistemas operacionais",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "212320",
-    "profession": "Administrador(a) em segurança da informação",
-    "sinacor": "109"
+    "cbo": "241005",
+    "profession": "Advogado(a)",
+    "sinacor": "131"
   },
   {
     "cbo": "354815",
@@ -35,63 +15,28 @@
     "sinacor": "594"
   },
   {
-    "cbo": "252510",
-    "profession": "Analista de câmbio",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "252515",
-    "profession": "Analista de cobrança",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "252525",
-    "profession": "Analista de crédito",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "212405",
-    "profession": "Analista de desenvolvimento de sistemas",
-    "sinacor": "126"
-  },
-  {
-    "cbo": "252405",
-    "profession": "Analista de recursos humanos",
-    "sinacor": "393"
-  },
-  {
     "cbo": "252545",
-    "profession": "Analista financeiro",
+    "profession": "Analista",
     "sinacor": "109"
   },
   {
     "cbo": "251105",
-    "profession": "Antropóloga(o)",
+    "profession": "Antropólogo(a)",
     "sinacor": "109"
   },
   {
     "cbo": "000000",
-    "profession": "Aposentada(o)",
+    "profession": "Aposentado(a)",
     "sinacor": "923"
   },
   {
     "cbo": "251110",
-    "profession": "Arqueóloga(o)",
+    "profession": "Arqueólogo(a)",
     "sinacor": "135"
   },
   {
     "cbo": "214105",
-    "profession": "Arquiteta(o) de edificações",
-    "sinacor": "102"
-  },
-  {
-    "cbo": "214110",
-    "profession": "Arquiteta(o) de interiores",
-    "sinacor": "102"
-  },
-  {
-    "cbo": "214125",
-    "profession": "Arquiteta(o) urbanista",
+    "profession": "Arquiteto(a)",
     "sinacor": "102"
   },
   {
@@ -101,23 +46,18 @@
   },
   {
     "cbo": "261110",
+    "profession": "Assessor(a)",
+    "sinacor": "109"
+  },
+  {
+    "cbo": "261110",
     "profession": "Assessor(a) de imprensa",
     "sinacor": "109"
   },
   {
     "cbo": "411010",
-    "profession": "Assistente administrativo",
+    "profession": "Assistente",
     "sinacor": "394"
-  },
-  {
-    "cbo": "351715",
-    "profession": "Assistente comercial de seguros",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "354125",
-    "profession": "Assistente de vendas",
-    "sinacor": "401"
   },
   {
     "cbo": "251605",
@@ -126,47 +66,57 @@
   },
   {
     "cbo": "516705",
-    "profession": "Astróloga(o)",
+    "profession": "Astrólogo(a)",
     "sinacor": "109"
   },
   {
     "cbo": "213305",
-    "profession": "Astrônoma(o)",
+    "profession": "Astrônomo(a)",
     "sinacor": "128"
   },
   {
     "cbo": "421105",
-    "profession": "Atendente comercial",
+    "profession": "Atendente",
     "sinacor": "109"
   },
   {
-    "cbo": "413205",
-    "profession": "Atendente de agência",
-    "sinacor": "395"
-  },
-  {
     "cbo": "377105",
-    "profession": "Atleta profissional",
+    "profession": "Atleta",
     "sinacor": "168"
   },
   {
     "cbo": "262505",
-    "profession": "Ator/Atriz",
+    "profession": "Ator ou Atriz",
     "sinacor": "162"
   },
   {
-    "cbo": "211105",
-    "profession": "Atuária(o)",
-    "sinacor": "123"
+    "cbo": "252205",
+    "profession": "Auditor(a)",
+    "sinacor": "109"
   },
   {
-    "cbo": "262810",
-    "profession": "Bailarina(o)",
-    "sinacor": "165"
+    "cbo": "000000",
+    "profession": "Autônomo(a)",
+    "sinacor": "109"
+  },
+  {
+    "cbo": "411010",
+    "profession": "Auxiliar administrativo",
+    "sinacor": "394"
+  },
+  {
+    "cbo": "516205",
+    "profession": "Babá",
+    "sinacor": "109"
+  },
+  {
+    "cbo": "413210",
+    "profession": "Bancário(a)",
+    "sinacor": "395"
   },
   {
     "cbo": "516105",
-    "profession": "Barbeira(o)",
+    "profession": "Barbeiro(a)",
     "sinacor": "511"
   },
   {
@@ -176,27 +126,27 @@
   },
   {
     "cbo": "261205",
-    "profession": "Bibliotecária(o)",
+    "profession": "Bibliotecário(a)",
     "sinacor": "135"
   },
   {
     "cbo": "221105",
-    "profession": "Bióloga(o)",
+    "profession": "Biólogo(a)",
     "sinacor": "116"
   },
   {
     "cbo": "221205",
-    "profession": "Biomédica(o)",
+    "profession": "Biomédico(a)",
     "sinacor": "116"
   },
   {
     "cbo": "517110",
-    "profession": "Bombeira(o) civil",
+    "profession": "Bombeiro(a)",
     "sinacor": "544"
   },
   {
     "cbo": "516110",
-    "profession": "Cabeleireira(o)",
+    "profession": "Cabeleireiro(a)",
     "sinacor": "511"
   },
   {
@@ -205,39 +155,14 @@
     "sinacor": "395"
   },
   {
+    "cbo": "262705",
+    "profession": "Cantor(a)",
+    "sinacor": "164"
+  },
+  {
     "cbo": "715505",
-    "profession": "Carpinteira(o)",
+    "profession": "Carpinteiro(a)",
     "sinacor": "709"
-  },
-  {
-    "cbo": "242205",
-    "profession": "Procurador(a) da república",
-    "sinacor": "203"
-  },
-  {
-    "cbo": "242245",
-    "profession": "Subprocurador(a)-geral da república",
-    "sinacor": "203"
-  },
-  {
-    "cbo": "111105",
-    "profession": "Senador(a)",
-    "sinacor": "201"
-  },
-  {
-    "cbo": "111110",
-    "profession": "Deputada(o) federal",
-    "sinacor": "201"
-  },
-  {
-    "cbo": "111115",
-    "profession": "Deputada(o) estadual e distrital",
-    "sinacor": "201"
-  },
-  {
-    "cbo": "111120",
-    "profession": "Vereador(a)",
-    "sinacor": "201"
   },
   {
     "cbo": "271105",
@@ -245,44 +170,39 @@
     "sinacor": "521"
   },
   {
-    "cbo": "251115",
-    "profession": "Cientista político",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "223208",
-    "profession": "Cirurgiã(o) dentista",
-    "sinacor": "115"
-  },
-  {
-    "cbo": "141405",
-    "profession": "Comerciante atacadista",
-    "sinacor": "402"
-  },
-  {
     "cbo": "141410",
-    "profession": "Comerciante varejista",
+    "profession": "Comerciante",
     "sinacor": "402"
   },
   {
     "cbo": "511105",
-    "profession": "Comissária(o) de vôo",
+    "profession": "Comissário(a) de bordo",
     "sinacor": "182"
   },
   {
-    "cbo": "354205",
-    "profession": "Comprador(a)",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "422130",
-    "profession": "Concierge",
-    "sinacor": "109"
-  },
-  {
     "cbo": "515320",
-    "profession": "Conselheira(o) tutelar",
+    "profession": "Conselheiro(a) tutelar",
     "sinacor": "109"
+  },
+  {
+    "cbo": "351115",
+    "profession": "Consultor(a)",
+    "sinacor": "124"
+  },
+  {
+    "cbo": "252210",
+    "profession": "Contador(a)",
+    "sinacor": "124"
+  },
+  {
+    "cbo": "354605",
+    "profession": "Corretor(a)",
+    "sinacor": "403"
+  },
+  {
+    "cbo": "513205",
+    "profession": "Cozinheiro(a)",
+    "sinacor": "521"
   },
   {
     "cbo": "516220",
@@ -291,97 +211,47 @@
   },
   {
     "cbo": "375120",
-    "profession": "Decorador(a) de eventos",
+    "profession": "Decorador(a)",
     "sinacor": "109"
   },
   {
-    "cbo": "318505",
-    "profession": "Desenhista projetista de arquitetura",
-    "sinacor": "102"
+    "cbo": "242405",
+    "profession": "Defensor(a) público(a)",
+    "sinacor": "131"
+  },
+  {
+    "cbo": "223208",
+    "profession": "Dentista",
+    "sinacor": "115"
+  },
+  {
+    "cbo": "000000",
+    "profession": "Dependente",
+    "sinacor": "109"
   },
   {
     "cbo": "318005",
-    "profession": "Desenhista técnico",
+    "profession": "Desenhista",
     "sinacor": "105"
   },
   {
     "cbo": "317110",
-    "profession": "Desenvolvedor(a) de sistemas de tecnologia da informação",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "317105",
-    "profession": "Desenvolvedor(a) web",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "375105",
-    "profession": "Designer de interiores",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "262425",
-    "profession": "Designer de moda",
+    "profession": "Desenvolvedor(a)",
     "sinacor": "109"
   },
   {
     "cbo": "262420",
-    "profession": "Designer de produto",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "375110",
-    "profession": "Designer de vitrines",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "239435",
-    "profession": "Designer educacional",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "262410",
-    "profession": "Designer gráfico",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "262235",
-    "profession": "Diretor(a) artistíco",
+    "profession": "Designer",
     "sinacor": "109"
   },
   {
     "cbo": "262330",
-    "profession": "Diretor(a) de arte",
+    "profession": "Diretor(a)",
     "sinacor": "162"
   },
   {
-    "cbo": "262205",
-    "profession": "Diretor(a) de cinema",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "114105",
-    "profession": "Dirigente de partido político",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "111405",
-    "profession": "Dirigente do serviço público federal",
-    "sinacor": "296"
-  },
-  {
-    "cbo": "111415",
-    "profession": "Dirigente do serviço público municipal",
-    "sinacor": "298"
-  },
-  {
-    "cbo": "114205",
-    "profession": "Dirigente de entidades de trabalhadores",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "114210",
-    "profession": "Dirigente de entidades patronais",
+    "cbo": "000000",
+    "profession": "Do lar",
     "sinacor": "109"
   },
   {
@@ -390,23 +260,33 @@
     "sinacor": "121"
   },
   {
+    "cbo": "261120",
+    "profession": "Editor(a)",
+    "sinacor": "109"
+  },
+  {
     "cbo": "715615",
-    "profession": "Eletricista de instalações",
+    "profession": "Eletricista",
     "sinacor": "703"
   },
   {
-    "cbo": "951105",
-    "profession": "Eletricista de manutenção eletroeletrônica",
+    "cbo": "512105",
+    "profession": "Empregado(a) doméstico(a)",
+    "sinacor": "598"
+  },
+  {
+    "cbo": "000000",
+    "profession": "Empresário(a)",
     "sinacor": "109"
   },
   {
     "cbo": "223505",
-    "profession": "Enfermeira(o)",
+    "profession": "Enfermeiro(a)",
     "sinacor": "113"
   },
   {
     "cbo": "214905",
-    "profession": "Engenheira(o)",
+    "profession": "Engenheiro(a)",
     "sinacor": "101"
   },
   {
@@ -415,19 +295,19 @@
     "sinacor": "109"
   },
   {
+    "cbo": "261515",
+    "profession": "Escritor(a)",
+    "sinacor": "109"
+  },
+  {
     "cbo": "413225",
-    "profession": "Escriturária(o) de banco",
+    "profession": "Escriturário(a)",
     "sinacor": "395"
   },
   {
     "cbo": "000000",
-    "profession": "Espólio",
-    "sinacor": "933"
-  },
-  {
-    "cbo": "211205",
-    "profession": "Estaticista",
-    "sinacor": "122"
+    "profession": "Estagiário(a)",
+    "sinacor": "109"
   },
   {
     "cbo": "322130",
@@ -441,53 +321,83 @@
   },
   {
     "cbo": "223405",
-    "profession": "Farmacêutica(o)",
+    "profession": "Farmacêutico(a)",
     "sinacor": "117"
   },
   {
-    "cbo": "251405",
-    "profession": "Filósofa(o)",
+    "cbo": "000000",
+    "profession": "Fazendeiro(a)",
     "sinacor": "109"
   },
   {
+    "cbo": "000000",
+    "profession": "Figurinista",
+    "sinacor": "109"
+  },
+  {
+    "cbo": "251405",
+    "profession": "Filósofo(a)",
+    "sinacor": "109"
+  },
+  {
+    "cbo": "254505",
+    "profession": "Fiscal",
+    "sinacor": "213"
+  },
+  {
     "cbo": "213105",
-    "profession": "Físico",
+    "profession": "Físico(a)",
     "sinacor": "106"
   },
   {
     "cbo": "223605",
-    "profession": "Fisioterapeuta geral",
+    "profession": "Fisioterapeuta",
     "sinacor": "114"
   },
   {
     "cbo": "223810",
-    "profession": "Fonoaudióloga(o) geral",
+    "profession": "Fonoaudiólogo(a)",
     "sinacor": "118"
   },
   {
     "cbo": "261805",
-    "profession": "Fotógrafa(o)",
+    "profession": "Fotógrafo(a)",
+    "sinacor": "109"
+  },
+  {
+    "cbo": "521135",
+    "profession": "Frentista",
     "sinacor": "109"
   },
   {
     "cbo": "000000",
-    "profession": "Funcionária(o) pública(o) estadual",
-    "sinacor": "297"
-  },
-  {
-    "cbo": "000000",
-    "profession": "Funcionária(o) pública(o) federal",
+    "profession": "Funcionário(a) público(a)",
     "sinacor": "296"
   },
   {
     "cbo": "000000",
-    "profession": "Funcionária(o) pública(o) municipal",
-    "sinacor": "298"
+    "profession": "Gamer",
+    "sinacor": "109"
   },
   {
     "cbo": "513405",
-    "profession": "Garçom/Garçonete",
+    "profession": "Garçom ou Garçonete",
     "sinacor": "109"
+  },
+  {
+    "cbo": "251305",
+    "profession": "Geógrafo(a)",
+    "sinacor": "127"
+  },
+  {
+    "cbo": "142305",
+    "profession": "Gerente",
+    "sinacor": "303"
+  },
+  {
+    "cbo": "252505",
+    "profession": "Gestor(a) de investimentos",
+    "sinacor": "125"
   },
   {
     "cbo": "252605",
@@ -496,7 +406,7 @@
   },
   {
     "cbo": "517215",
-    "profession": "Guarda-civil municipal",
+    "profession": "Guarda civil",
     "sinacor": "295"
   },
   {
@@ -505,38 +415,23 @@
     "sinacor": "594"
   },
   {
-    "cbo": "782205",
-    "profession": "Guincheira(o)",
-    "sinacor": "109"
+    "cbo": "141505",
+    "profession": "Hoteleiro(a)",
+    "sinacor": "303"
   },
   {
-    "cbo": "766205",
-    "profession": "Impressor(a)",
-    "sinacor": "711"
+    "cbo": "318410",
+    "profession": "Ilustrador(a)",
+    "sinacor": "105"
   },
   {
     "cbo": "391205",
-    "profession": "Inspetor(a) de qualidade",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "351725",
-    "profession": "Inspetor(a) de risco",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "351730",
-    "profession": "Inspetor(a) de sinistros",
+    "profession": "Inspetor(a)",
     "sinacor": "109"
   },
   {
     "cbo": "333105",
-    "profession": "Instrutor(a) de auto-escola",
-    "sinacor": "142"
-  },
-  {
-    "cbo": "333110",
-    "profession": "Instrutor(a) de cursos livres",
+    "profession": "Instrutor(a) de autoescola",
     "sinacor": "142"
   },
   {
@@ -545,18 +440,23 @@
     "sinacor": "109"
   },
   {
+    "cbo": "000000",
+    "profession": "Investidor",
+    "sinacor": "907"
+  },
+  {
     "cbo": "351810",
     "profession": "Investigador(a) de polícia",
     "sinacor": "109"
   },
   {
     "cbo": "622010",
-    "profession": "Jardineira(o)",
+    "profession": "Jardineiro(a)",
     "sinacor": "109"
   },
   {
     "cbo": "751010",
-    "profession": "Joalheira(o)",
+    "profession": "Joalheiro(a)",
     "sinacor": "717"
   },
   {
@@ -566,18 +466,13 @@
   },
   {
     "cbo": "111325",
-    "profession": "Juiz(a) de direito",
+    "profession": "Juiz(a)",
     "sinacor": "109"
   },
   {
-    "cbo": "30110",
-    "profession": "Bombeira(o) militar",
-    "sinacor": "295"
-  },
-  {
-    "cbo": "20115",
-    "profession": "Policial militar",
-    "sinacor": "295"
+    "cbo": "261715",
+    "profession": "Locutor(a), Comentarista ou Radialista",
+    "sinacor": "109"
   },
   {
     "cbo": "516120",
@@ -591,43 +486,48 @@
   },
   {
     "cbo": "771105",
-    "profession": "Marceneira(o)",
+    "profession": "Marceneiro(a)",
     "sinacor": "109"
   },
   {
     "cbo": "322120",
-    "profession": "Massoterapeuta",
+    "profession": "Massagista",
     "sinacor": "109"
   },
   {
     "cbo": "211115",
-    "profession": "Matemático",
+    "profession": "Matemático(a)",
     "sinacor": "123"
   },
   {
     "cbo": "911305",
-    "profession": "Mecânica(o) de manutenção de máquinas, em geral",
+    "profession": "Mecânico(a)",
     "sinacor": "702"
   },
   {
-    "cbo": "914425",
-    "profession": "Mecânica(o) de veículos automotores",
-    "sinacor": "541"
-  },
-  {
-    "cbo": "225225",
-    "profession": "Médica(o) cirurgiã(o) geral",
-    "sinacor": "111"
-  },
-  {
     "cbo": "225125",
-    "profession": "Médica(o) clínico",
+    "profession": "Médico(a)",
     "sinacor": "111"
   },
   {
-    "cbo": "223305",
-    "profession": "Médica(o) veterinário",
-    "sinacor": "112"
+    "cbo": "111225",
+    "profession": "Membro(a) do poder executivo",
+    "sinacor": "203"
+  },
+  {
+    "cbo": "351425",
+    "profession": "Membro(a) do poder judiciário",
+    "sinacor": "109"
+  },
+  {
+    "cbo": "111105",
+    "profession": "Membro(a) do poder legislativo",
+    "sinacor": "201"
+  },
+  {
+    "cbo": "109",
+    "profession": "Mestre de obra",
+    "sinacor": "7102"
   },
   {
     "cbo": "213315",
@@ -636,32 +536,22 @@
   },
   {
     "cbo": "376415",
-    "profession": "Modelo publicitário",
+    "profession": "Modelo",
     "sinacor": "492"
   },
   {
-    "cbo": "725205",
-    "profession": "Montador(a) de máquinas",
-    "sinacor": "702"
+    "cbo": "000000",
+    "profession": "Motoboy ou Motogirl",
+    "sinacor": "109"
   },
   {
     "cbo": "782510",
-    "profession": "Motorista de caminhão",
-    "sinacor": "532"
-  },
-  {
-    "cbo": "782305",
-    "profession": "Motorista de carro de passeio",
-    "sinacor": "531"
-  },
-  {
-    "cbo": "782405",
-    "profession": "Motorista de ônibus",
+    "profession": "Motorista",
     "sinacor": "531"
   },
   {
     "cbo": "262705",
-    "profession": "Musicista intérprete cantor(a)",
+    "profession": "Músico(a)",
     "sinacor": "164"
   },
   {
@@ -675,6 +565,11 @@
     "sinacor": "295"
   },
   {
+    "cbo": "10210",
+    "profession": "Oficial do exército",
+    "sinacor": "295"
+  },
+  {
     "cbo": "10215",
     "profession": "Oficial da marinha",
     "sinacor": "295"
@@ -683,11 +578,6 @@
     "cbo": "351425",
     "profession": "Oficial de justiça",
     "sinacor": "109"
-  },
-  {
-    "cbo": "10210",
-    "profession": "Oficial do exército",
-    "sinacor": "295"
   },
   {
     "cbo": "422305",
@@ -700,43 +590,58 @@
     "sinacor": "109"
   },
   {
-    "cbo": "213430",
-    "profession": "Paleontóloga(o)",
+    "cbo": "000000",
+    "profession": "Outros (não encontrei minha profissão na lista)",
     "sinacor": "109"
   },
   {
+    "cbo": "214120",
+    "profession": "Paisagista",
+    "sinacor": "102"
+  },
+  {
     "cbo": "239415",
-    "profession": "Pedagoga(o)",
+    "profession": "Pedagogo(a)",
     "sinacor": "145"
   },
   {
+    "cbo": "715210",
+    "profession": "Pedreiro(a)",
+    "sinacor": "709"
+  },
+  {
+    "cbo": "000000",
+    "profession": "Pensionista",
+    "sinacor": "109"
+  },
+  {
     "cbo": "252215",
-    "profession": "Perito contábil",
+    "profession": "Perito(a) contábil",
     "sinacor": "124"
   },
   {
     "cbo": "204105",
-    "profession": "Perito criminal",
+    "profession": "Perito(a) judicial",
     "sinacor": "109"
   },
   {
-    "cbo": "341110",
-    "profession": "Pilota(o) comercial de helicóptero",
-    "sinacor": "181"
+    "cbo": "000000",
+    "profession": "Pesquisador(a)",
+    "sinacor": "109"
   },
   {
     "cbo": "215305",
-    "profession": "Pilota(o) de aeronaves",
+    "profession": "Piloto(a)",
     "sinacor": "181"
   },
   {
     "cbo": "322110",
-    "profession": "Podóloga(o)",
+    "profession": "Podólogo(a)",
     "sinacor": "109"
   },
   {
-    "cbo": "517225",
-    "profession": "Policial legislativo",
+    "cbo": "20115",
+    "profession": "Policial militar",
     "sinacor": "295"
   },
   {
@@ -745,48 +650,33 @@
     "sinacor": "295"
   },
   {
+    "cbo": "517410",
+    "profession": "Porteiro(a)",
+    "sinacor": "501"
+  },
+  {
     "cbo": "224120",
     "profession": "Preparador(a) físico",
     "sinacor": "109"
   },
   {
-    "cbo": "242210",
-    "profession": "Procurador(a) de justiça",
-    "sinacor": "211"
-  },
-  {
-    "cbo": "241220",
-    "profession": "Procurador(a) do estado",
-    "sinacor": "211"
-  },
-  {
-    "cbo": "241225",
-    "profession": "Procurador(a) do município",
-    "sinacor": "211"
-  },
-  {
     "cbo": "242220",
-    "profession": "Procurador(a) do trabalho",
+    "profession": "Procurador(a)",
     "sinacor": "211"
   },
   {
-    "cbo": "241230",
-    "profession": "Procurador(a) federal",
-    "sinacor": "211"
+    "cbo": "262105",
+    "profession": "Produtor(a) de conteúdo digital",
+    "sinacor": "109"
   },
   {
     "cbo": "611005",
-    "profession": "Produtor(a) agropecuário",
+    "profession": "Produtor(a) rural",
     "sinacor": "103"
   },
   {
     "cbo": "262110",
-    "profession": "Produtor(a) cinematográfico",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "262105",
-    "profession": "Produtor(a) cultural",
+    "profession": "Produtor(a) de cinema",
     "sinacor": "109"
   },
   {
@@ -795,9 +685,9 @@
     "sinacor": "142"
   },
   {
-    "cbo": "333115",
-    "profession": "Professor(a) de cursos livres",
-    "sinacor": "142"
+    "cbo": "123310",
+    "profession": "Profissional de marketing",
+    "sinacor": "301"
   },
   {
     "cbo": "142345",
@@ -806,12 +696,27 @@
   },
   {
     "cbo": "142350",
-    "profession": "Profissonal de relações internacionais",
+    "profession": "Profissional de relações internacionais",
+    "sinacor": "109"
+  },
+  {
+    "cbo": "142325",
+    "profession": "Profissional de relações públicas",
+    "sinacor": "137"
+  },
+  {
+    "cbo": "000000",
+    "profession": "Profissional liberal",
+    "sinacor": "109"
+  },
+  {
+    "cbo": "317115",
+    "profession": "Programador(a)",
     "sinacor": "109"
   },
   {
     "cbo": "318805",
-    "profession": "Projetista de móveis",
+    "profession": "Projetista",
     "sinacor": "109"
   },
   {
@@ -825,13 +730,8 @@
     "sinacor": "411"
   },
   {
-    "cbo": "000000",
-    "profession": "Proprietária(o) de imóvel",
-    "sinacor": "906"
-  },
-  {
     "cbo": "322410",
-    "profession": "Proteticista dentário",
+    "profession": "Protético(a) dentário",
     "sinacor": "109"
   },
   {
@@ -841,33 +741,23 @@
   },
   {
     "cbo": "251510",
-    "profession": "Psicóloga(o) clínico",
-    "sinacor": "132"
-  },
-  {
-    "cbo": "223915",
-    "profession": "Psicomotricista",
-    "sinacor": "132"
-  },
-  {
-    "cbo": "239425",
-    "profession": "Psicopedagoga(o)",
+    "profession": "Psicólogo(a)",
     "sinacor": "132"
   },
   {
     "cbo": "253115",
-    "profession": "Publicitária(o)",
+    "profession": "Publicitário(a)",
     "sinacor": "172"
   },
   {
     "cbo": "213205",
-    "profession": "Químico",
+    "profession": "Químico(a)",
     "sinacor": "104"
   },
   {
-    "cbo": "226105",
-    "profession": "Quiropraxista",
-    "sinacor": "109"
+    "cbo": "225355",
+    "profession": "Radiologista",
+    "sinacor": "111"
   },
   {
     "cbo": "422105",
@@ -880,69 +770,84 @@
     "sinacor": "109"
   },
   {
-    "cbo": "142325",
-    "profession": "Profissonal de relações públicas",
-    "sinacor": "137"
+    "cbo": "354705",
+    "profession": "Representante comercial",
+    "sinacor": "908"
   },
   {
     "cbo": "252305",
-    "profession": "Secretária(o) executiva(o)",
+    "profession": "Secretário(a)",
     "sinacor": "393"
   },
   {
     "cbo": "251120",
-    "profession": "Socióloga(o)",
+    "profession": "Sociólogo(a)",
     "sinacor": "133"
   },
   {
-    "cbo": "241335",
-    "profession": "Tabeliã(o) de notas",
-    "sinacor": "294"
+    "cbo": "410105",
+    "profession": "Supervisor(a)",
+    "sinacor": "305"
   },
   {
-    "cbo": "241340",
-    "profession": "Tabeliã(o) de protestos",
-    "sinacor": "294"
-  },
-  {
-    "cbo": "321105",
-    "profession": "Técnica(o) agrícola",
+    "cbo": "000000",
+    "profession": "Tatuador(a)",
     "sinacor": "109"
   },
   {
-    "cbo": "321110",
-    "profession": "Técnica(o) agropecuário",
+    "cbo": "321105",
+    "profession": "Técnico(a) agrícola",
     "sinacor": "109"
   },
   {
     "cbo": "351105",
-    "profession": "Técnica(o) de contabilidade",
+    "profession": "Técnico(a) de contabilidade",
     "sinacor": "151"
   },
   {
+    "cbo": "313130",
+    "profession": "Técnico(a) de eletricidade",
+    "sinacor": "156"
+  },
+  {
     "cbo": "322205",
-    "profession": "Técnica(o) de enfermagem",
+    "profession": "Técnico(a) de enfermagem",
     "sinacor": "113"
   },
   {
+    "cbo": "313220",
+    "profession": "Técnico(a) de informática",
+    "sinacor": "109"
+  },
+  {
     "cbo": "325115",
-    "profession": "Técnica(o) em farmácia",
+    "profession": "Técnico(a) em farmácia",
     "sinacor": "157"
   },
   {
     "cbo": "314110",
-    "profession": "Técnica(o) mecânico",
+    "profession": "Técnico(a) de mecânica",
     "sinacor": "155"
   },
   {
+    "cbo": "351605",
+    "profession": "Técnico(a)de segurança do trabalho",
+    "sinacor": "109"
+  },
+  {
+    "cbo": "422205",
+    "profession": "Telefonista",
+    "sinacor": "501"
+  },
+  {
     "cbo": "223905",
-    "profession": "Terapeuta ocupacional",
+    "profession": "Terapeuta",
     "sinacor": "114"
   },
   {
-    "cbo": "000000",
-    "profession": "Trader",
-    "sinacor": "907"
+    "cbo": "715210",
+    "profession": "Trabalhador(a) de construção civil",
+    "sinacor": "709"
   },
   {
     "cbo": "261420",
@@ -951,42 +856,22 @@
   },
   {
     "cbo": "521110",
-    "profession": "Vendedor(a) de comércio varejista",
+    "profession": "Vendedor(a)",
     "sinacor": "411"
   },
   {
-    "cbo": "521105",
-    "profession": "Vendedor(a) em comércio atacadista",
-    "sinacor": "411"
-  },
-  {
-    "cbo": "716305",
-    "profession": "Vidraceira(o)",
-    "sinacor": "709"
+    "cbo": "223305",
+    "profession": "Veterinário(a)",
+    "sinacor": "112"
   },
   {
     "cbo": "517330",
-    "profession": "Vigilante",
-    "sinacor": "109"
-  },
-  {
-    "cbo": "375115",
-    "profession": "Visual merchandiser",
+    "profession": "Vigilante, Vigia ou Segurança",
     "sinacor": "109"
   },
   {
     "cbo": "514120",
-    "profession": "Zelador(a) de edifício",
+    "profession": "Zelador(a)",
     "sinacor": "501"
-  },
-  {
-    "cbo": "223310",
-    "profession": "Zootecnista",
-    "sinacor": "112"
-  },
-  {
-    "cbo": "000000",
-    "profession": "Outros (não encontrei minha profissão na lista)",
-    "sinacor": "109"
   }
 ]
