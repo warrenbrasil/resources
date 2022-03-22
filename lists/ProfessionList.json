@@ -525,9 +525,9 @@
     "sinacor": "201"
   },
   {
-    "cbo": "109",
+    "cbo": "710205",
     "profession": "Mestre de obra",
-    "sinacor": "7102"
+    "sinacor": "109"
   },
   {
     "cbo": "213315",
@@ -560,17 +560,17 @@
     "sinacor": "113"
   },
   {
-    "cbo": "10205",
+    "cbo": "010205",
     "profession": "Oficial da aeronáutica",
     "sinacor": "295"
   },
   {
-    "cbo": "10210",
+    "cbo": "010210",
     "profession": "Oficial do exército",
     "sinacor": "295"
   },
   {
-    "cbo": "10215",
+    "cbo": "010215",
     "profession": "Oficial da marinha",
     "sinacor": "295"
   },
@@ -640,7 +640,7 @@
     "sinacor": "109"
   },
   {
-    "cbo": "20115",
+    "cbo": "351810",
     "profession": "Policial militar",
     "sinacor": "295"
   },
