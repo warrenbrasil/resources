@@ -9,19 +9,17 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [16.14.2]
+
     steps:
       - name: 'Git Checkout'
         uses: actions/checkout@v2
         with:
           persist-credentials: false
 
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v1
+      - name: Setup Node
+        uses: actions/setup-node@v3
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version-file: '.nvmrc'
 
       - name: Install dependencies
         run: yarn
@@ -30,6 +28,6 @@ jobs:
         run: yarn build
 
       - name: Release
-        run: npx semantic-release
+        run: yarn release
         env:
           GITHUB_TOKEN: ${{ secrets.RELEASE_PAT }}
