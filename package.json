@@ -1,7 +1,7 @@
 {
   "name": "@warrenbrasil/resources",
   "version": "1.0.0",
-  "description": "Resources used by Warren",
+  "description": "Resources and strings",
   "main": "dist/main.js",
   "source": "index.ts",
   "module": "dist/module.js",
