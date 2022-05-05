@@ -18,7 +18,7 @@ jobs:
         with:
           configuration: '.github/configs/release-changelog.json'
         env:
-          GITHUB_TOKEN: ${{ secrets.WARRENBRASIL_GITHUB_PAT }}
+          GITHUB_TOKEN: ${{ secrets.RELEASE_PAT }}
 
       - name: Create release changelog
         uses: warrenbrasil/release-action@v1
@@ -26,4 +26,4 @@ jobs:
           allowUpdates: true
           omitPrereleaseDuringUpdate: true
           body: ${{steps.github_release.outputs.changelog}}
-          token: ${{ secrets.WARRENBRASIL_GITHUB_PAT }}
+          token: ${{ secrets.RELEASE_PAT }}
