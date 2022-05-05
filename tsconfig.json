@@ -2,16 +2,11 @@
   "compilerOptions": {
     "baseUrl": ".",
     "resolveJsonModule": true,
-    "esModuleInterop": true,
     "moduleResolution": "node",
-    "allowSyntheticDefaultImports": true,
     "target": "es2017",
     "module": "esnext",
-    "types": [
-      "node"
-    ],
     "paths": {
-      "lists": ["./lists/*.json"]
+      "~*": ["./*"]
     }
   },
   "include": ["**/*"],
