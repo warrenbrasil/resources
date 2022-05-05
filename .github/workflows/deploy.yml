@@ -23,10 +23,6 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-      - name: Create ~/.npmrc file (for private packages)
-        run: echo //npm.pkg.github.com/:_authToken=${{ secrets.NPM_PACKAGE }} >> ~/.npmrc |
-          echo @warrenbrasil:registry=https://npm.pkg.github.com/ >> ~/.npmrc
-
       - name: Install dependencies
         run: yarn
 

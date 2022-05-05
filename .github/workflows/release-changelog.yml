@@ -14,14 +14,14 @@ jobs:
 
       - name: Build release changelog
         id: github_release
-        uses: mikepenz/release-changelog-builder-action@v1
+        uses: warrenbrasil/release-changelog-builder-action@v1
         with:
           configuration: '.github/configs/release-changelog.json'
         env:
           GITHUB_TOKEN: ${{ secrets.WARRENBRASIL_GITHUB_PAT }}
 
       - name: Create release changelog
-        uses: ncipollo/release-action@v1
+        uses: warrenbrasil/release-action@v1
         with:
           allowUpdates: true
           omitPrereleaseDuringUpdate: true
