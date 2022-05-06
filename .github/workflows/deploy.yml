@@ -20,6 +20,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version-file: '.nvmrc'
+          
+      - name: Create ~/.npmrc file (for private packages)
+        run: echo //npm.pkg.github.com/:_authToken=${{ secrets.NPM_PACKAGE }} >> ~/.npmrc |
+          echo @warrenbrasil:registry=https://npm.pkg.github.com/ >> ~/.npmrc
 
       - name: Install dependencies
         run: yarn
@@ -30,4 +34,4 @@ jobs:
       - name: Release
         run: yarn release
         env:
-          GITHUB_TOKEN: ${{ secrets.RELEASE_PAT }}
+          GITHUB_TOKEN: ${{ secrets.NPM_PACKAGE }}
