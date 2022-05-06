@@ -1,0 +1,34 @@
+{
+  "pr_template": "- ${{TITLE}} (#${{NUMBER}} by @${{AUTHOR}})",
+  "empty_template": "- no changes",
+  "categories": [
+    {
+      "title": "## Features",
+      "labels": ["feature"]
+    },
+    {
+      "title": "## Fixes",
+      "labels": ["fix"]
+    },
+    {
+      "title": "## Tests",
+      "labels": ["tests"]
+    },
+    {
+      "title": "## Refactor",
+      "labels": ["refactor"]
+    },
+    {
+      "title": "## Documentations",
+      "labels": ["documentation"]
+    },
+    {
+      "title": "## Dependencies/Configs",
+      "labels": ["chore"]
+    },
+    {
+      "title": "## CI/CD",
+      "labels": ["ci"]
+    }
+  ]
+}
