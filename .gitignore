@@ -8,6 +8,11 @@
 # Thumbnails
 ._*
 
+# dotnet
+bin
+obj
+.vs
+
 # Build
 dist
 

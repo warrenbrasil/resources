@@ -1,0 +1,32 @@
+name: NuGet
+
+env:
+  NUGET_SOURCE: https://nuget.pkg.github.com/warrenbrasil/index.json
+
+on:
+  pull_request:
+    branches: [package/add-nuget-suport]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      # Install the .NET Core workload
+      - name: Install .NET Core
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: "6.0.x"          
+
+      - name: Nuget Config
+        run: |
+          dotnet nuget add source $NUGET_SOURCE -n github -u oiwarren -p ${{ secrets.NUGETAPIKEY }} --store-password-in-clear-text
+          dotnet nuget list source
+
+      - name: Package
+        run: dotnet pack --configuration Release --version-suffix beta${{github.run_number}}
+      
+      - name: Publish
+        run: dotnet nuget push "bin/Release/Warren.Resources.*.nupkg" --source "github"
