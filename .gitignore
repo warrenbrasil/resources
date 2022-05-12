@@ -12,3 +12,12 @@
 bin
 obj
 .vs
+
+# Build
+dist
+
+# Node dependencies
+node_modules
+
+# Parcel cache
+.parcel-cache

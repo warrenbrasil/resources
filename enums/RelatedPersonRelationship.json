@@ -7,5 +7,7 @@
   "statuaryDirector": "Diretor Estatutário",
   "resourcesManager": "Gestor de Recursos",
   "subsidiary": "Filial",
-  "linkedBusiness": "Empresa ligada ou coligada"
+  "linkedBusiness": "Empresa ligada ou coligada",
+  "parentCompany": "Controladora",
+  "controlledCompany": "Controlada"
 }

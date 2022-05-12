@@ -1,0 +1,37 @@
+name: Release package on NPM
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 'Git Checkout'
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+          
+      - name: Create ~/.npmrc file (for private packages)
+        run: echo //npm.pkg.github.com/:_authToken=${{ secrets.NPM_PACKAGE }} >> ~/.npmrc |
+          echo @warrenbrasil:registry=https://npm.pkg.github.com/ >> ~/.npmrc
+
+      - name: Install dependencies
+        run: yarn
+
+      - name: Build
+        run: yarn build
+
+      - name: Release
+        run: yarn release
+        env:
+          GITHUB_TOKEN: ${{ secrets.NPM_PACKAGE }}
