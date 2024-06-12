@@ -1,5 +1,7 @@
 {
+  "ts-node": { "esm": true, "experimentalSpecifierResolution": "node" },
   "compilerOptions": {
+    "esModuleInterop": true,
     "baseUrl": ".",
     "resolveJsonModule": true,
     "moduleResolution": "node",
