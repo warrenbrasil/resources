@@ -5,6 +5,7 @@
   "main": "dist/main.js",
   "source": "index.ts",
   "module": "dist/module.js",
+  "type": "module",
   "types": "dist/types.d.ts",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -13,7 +14,7 @@
     "watch": "parcel watch",
     "build": "parcel build",
     "release": "semantic-release",
-    "update:resources": "node updateResources.mjs"
+    "update:resources": "ts-node updateResources.ts"
   },
   "repository": {
     "type": "git",
@@ -36,5 +37,8 @@
     "parcel": "^2.5.0",
     "semantic-release": "^19.0.2",
     "typescript": ">=3.0.0"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
   }
 }
