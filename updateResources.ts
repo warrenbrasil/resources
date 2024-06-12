@@ -64,7 +64,7 @@ async function exportCitiesJSON() {
     city: city.nome,
     state: city.microrregiao.mesorregiao.UF.sigla,
   }))
-  fs.writeFileSync('./enums/Cities.json', JSON.stringify(mappedcities, null, 2))
+  fs.writeFileSync('./lists/Cities.json', JSON.stringify(mappedcities, null, 2))
 }
 
 exportCitiesJSON()
