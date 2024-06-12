@@ -7,7 +7,7 @@ Esse repositório contém arquivos JSON com definições das enumerações usado
 `npm run update:resources`
 
 De tempos em tempos pode ser que seja necessária uma atualização nos valores exportados, hoje temos valores fixos para não precisar consultar e depender de alguma api externa.
-Para atualizar basta rodar o script `update:resources` e criar um pull request com a mudança realizada. Hoje ele atualiza apenas o enum de cidades, mas com o tempo podemos adicionar outras atualizações.
+Para atualizar basta rodar o script `update:resources` e criar um pull request com a mudança realizada. Hoje ele atualiza apenas a lista de cidades, mas com o tempo podemos adicionar outras atualizações.
 
 # Quem é o Warren?
 
