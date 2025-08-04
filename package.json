@@ -1,6 +1,6 @@
 {
   "name": "@warrenbrasil/resources",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "description": "Resources and strings",
   "main": "dist/main.js",
   "source": "index.ts",
